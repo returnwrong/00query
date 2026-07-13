@@ -5,7 +5,8 @@
 **五大模块：** 信息系统 / 移动端应用 / 域名 / 邮箱 / 代码文档
 
 ---
-
+![](https://github.com/returnwrong/00query/blob/main/images/1.png)
+![](https://github.com/returnwrong/00query/blob/main/images/2.png)
 ## 快速开始
 
 ```bash
@@ -17,6 +18,7 @@ python 00query_gui.py
 或者直接访问 [exe下载链接](https://github.com/returnwrong/00query/releases/download/v1.0/00query.exe)
 
 > 首次使用需注册 [0.zone](https://0.zone) 获取 API Key，在程序右上角配置。
+![](https://github.com/returnwrong/00query/blob/main/images/3.png)
 
 ---
 
@@ -44,10 +46,10 @@ python 00query_gui.py
 
 ## 注意事项
 
-- **API Key 已列入 `.gitignore`，不会提交到仓库**
+- **使用前必须访问0.zone注册获取api**
+
 - API 有每日免费查询次数限制
 - 打包 exe 可能被杀毒软件误报，属正常现象，源码可审计
-
 ---
 
 ## 作者
