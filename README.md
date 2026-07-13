@@ -13,7 +13,8 @@ pip install -r requirements.txt
 python 00query_gui.py
 ```
 
-或下载打包好的 `00query.exe`（无需 Python，双击运行）。
+直接github右侧下载打包好的 `00query.exe`（无需 Python，双击运行）。
+或者直接访问 [exe下载链接](https://github.com/returnwrong/00query/releases/download/v1.0/00query.exe)
 
 > 首次使用需注册 [0.zone](https://0.zone) 获取 API Key，在程序右上角配置。
 
@@ -55,5 +56,6 @@ python 00query_gui.py
 
 ## 致谢
 
+- [奶龙师傅] 无偿提供测试用的API KEY
 - [0.zone](https://0.zone) 提供数据 API
 - [ttkbootstrap](https://github.com/israel-dryer/ttkbootstrap) 主题库
