@@ -19,6 +19,14 @@ python 00query_gui.py
 
 > 首次使用需注册 [0.zone](https://0.zone) 获取 API Key，在程序右上角配置。
 ![](https://github.com/returnwrong/00query/blob/main/images/3.png)
+![](https://github.com/returnwrong/00query/blob/main/images/4.png)
+![](https://github.com/returnwrong/00query/blob/main/images/5.png)
+![](https://github.com/returnwrong/00query/blob/main/images/6.png)
+![](https://github.com/returnwrong/00query/blob/main/images/7.png)
+![](https://github.com/returnwrong/00query/blob/main/images/8.png)
+![](https://github.com/returnwrong/00query/blob/main/images/9.png)
+![](https://github.com/returnwrong/00query/blob/main/images/10.png)
+![](https://github.com/returnwrong/00query/blob/main/images/11.png)
 
 ---
 
