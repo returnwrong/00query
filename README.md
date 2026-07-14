@@ -4,6 +4,8 @@
 
 **五大模块：** 信息系统 / 移动端应用 / 域名 / 邮箱 / 代码文档
 
+**完整使用教程:** https://mp.weixin.qq.com/s/NVzlUUJKzVC1K_jS_YfeGQ
+
 ---
 ![](https://github.com/returnwrong/00query/blob/main/images/1.png)
 ![](https://github.com/returnwrong/00query/blob/main/images/2.png)
