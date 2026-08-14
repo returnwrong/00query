@@ -9,6 +9,7 @@
 ---
 ![](https://github.com/returnwrong/00query/blob/main/images/1.png)
 ![](https://github.com/returnwrong/00query/blob/main/images/2.png)
+![](https://github.com/returnwrong/00query/blob/main/images/12.png)
 ## 快速开始
 
 ```bash
@@ -29,7 +30,7 @@ python 00query_gui.py
 ![](https://github.com/returnwrong/00query/blob/main/images/9.png)
 ![](https://github.com/returnwrong/00query/blob/main/images/10.png)
 ![](https://github.com/returnwrong/00query/blob/main/images/11.png)
-
+![](https://github.com/returnwrong/00query/blob/main/images/12.png)
 ---
 
 ## 功能一览
